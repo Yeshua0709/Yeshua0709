@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YeshuaAbrenica
+- 👋 Hi, I’m Yeshua Miguel Abrenica
 - 👀 I’m interested in Web Application Development
 - 🌱 I’m currently learning Javascript and React.js
 - 💞️ I’m looking for project collaborations  || pre-professional tasks
