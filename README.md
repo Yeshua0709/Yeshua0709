@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Yeshua Miguel Abrenica
 
-I'm a **Magna Cum Laude** BSIT graduate from Mapua University with a passion for **Web Application Development**. Currently honing my skills in **JavaScript** and **React.js**, I am open to **collaborative projects** and **internship opportunities** to further deepen my expertise.
+I'm a **Magna Cum Laude** BSIT graduate from Mapua University, with 3+ years of experience in **Web Application Development**. Currently honing my skills in **Next.JS** and **React.JS**, I am open to **collaborative projects** and **full-time opportunities** to further deepen my expertise.
 
 ---
 
